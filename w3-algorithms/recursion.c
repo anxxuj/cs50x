@@ -11,7 +11,7 @@ int main(void)
 
 void draw(int n)
 {
-    // If nothig to draw
+    // If nothing to draw
     if (n <= 0)
     {
         return;
